@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/NLW-2-front-end/static/css/main.670d5257.chunk.css",
-    "main.js": "/NLW-2-front-end/static/js/main.c743cc4a.chunk.js",
-    "main.js.map": "/NLW-2-front-end/static/js/main.c743cc4a.chunk.js.map",
+    "main.css": "/NLW-2-front-end/static/css/main.9415c5c7.chunk.css",
+    "main.js": "/NLW-2-front-end/static/js/main.9eff8418.chunk.js",
+    "main.js.map": "/NLW-2-front-end/static/js/main.9eff8418.chunk.js.map",
     "runtime-main.js": "/NLW-2-front-end/static/js/runtime-main.013723fa.js",
     "runtime-main.js.map": "/NLW-2-front-end/static/js/runtime-main.013723fa.js.map",
-    "static/js/2.03fc545c.chunk.js": "/NLW-2-front-end/static/js/2.03fc545c.chunk.js",
-    "static/js/2.03fc545c.chunk.js.map": "/NLW-2-front-end/static/js/2.03fc545c.chunk.js.map",
+    "static/js/2.d2a9f9ac.chunk.js": "/NLW-2-front-end/static/js/2.d2a9f9ac.chunk.js",
+    "static/js/2.d2a9f9ac.chunk.js.map": "/NLW-2-front-end/static/js/2.d2a9f9ac.chunk.js.map",
     "index.html": "/NLW-2-front-end/index.html",
-    "precache-manifest.a1d740d615ea0c8dc11be87368918577.js": "/NLW-2-front-end/precache-manifest.a1d740d615ea0c8dc11be87368918577.js",
+    "precache-manifest.cfff730934bec9f8c39e3bd6343a3029.js": "/NLW-2-front-end/precache-manifest.cfff730934bec9f8c39e3bd6343a3029.js",
     "service-worker.js": "/NLW-2-front-end/service-worker.js",
-    "static/css/main.670d5257.chunk.css.map": "/NLW-2-front-end/static/css/main.670d5257.chunk.css.map",
-    "static/js/2.03fc545c.chunk.js.LICENSE.txt": "/NLW-2-front-end/static/js/2.03fc545c.chunk.js.LICENSE.txt",
-    "static/media/back.svg": "/NLW-2-front-end/static/media/back.dc8c47fa.svg",
+    "static/css/main.9415c5c7.chunk.css.map": "/NLW-2-front-end/static/css/main.9415c5c7.chunk.css.map",
+    "static/js/2.d2a9f9ac.chunk.js.LICENSE.txt": "/NLW-2-front-end/static/js/2.d2a9f9ac.chunk.js.LICENSE.txt",
     "static/media/give-classes.svg": "/NLW-2-front-end/static/media/give-classes.156102ee.svg",
     "static/media/landing.svg": "/NLW-2-front-end/static/media/landing.211f2bb0.svg",
     "static/media/logo.svg": "/NLW-2-front-end/static/media/logo.86fef799.svg",
     "static/media/purple-heart.svg": "/NLW-2-front-end/static/media/purple-heart.bfdb3ebe.svg",
-    "static/media/study.svg": "/NLW-2-front-end/static/media/study.e7a7e1b4.svg",
-    "static/media/whatsapp.svg": "/NLW-2-front-end/static/media/whatsapp.45c6e6ec.svg"
+    "static/media/study.svg": "/NLW-2-front-end/static/media/study.e7a7e1b4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.013723fa.js",
-    "static/js/2.03fc545c.chunk.js",
-    "static/css/main.670d5257.chunk.css",
-    "static/js/main.c743cc4a.chunk.js"
+    "static/js/2.d2a9f9ac.chunk.js",
+    "static/css/main.9415c5c7.chunk.css",
+    "static/js/main.9eff8418.chunk.js"
   ]
 }

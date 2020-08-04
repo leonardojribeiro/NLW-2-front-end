@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9819e2da37dac8b7553c7b29d6c0a01",
+    "revision": "b1ec31c466a961abb529021fc40f5626",
     "url": "/NLW-2-front-end/index.html"
   },
   {
-    "revision": "5eec451fc72993615e00",
-    "url": "/NLW-2-front-end/static/css/main.670d5257.chunk.css"
+    "revision": "3623af5ca19ae0078899",
+    "url": "/NLW-2-front-end/static/css/main.9415c5c7.chunk.css"
   },
   {
-    "revision": "045476dfb919f327d5f8",
-    "url": "/NLW-2-front-end/static/js/2.03fc545c.chunk.js"
+    "revision": "6b26adec72723465ec8b",
+    "url": "/NLW-2-front-end/static/js/2.d2a9f9ac.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/NLW-2-front-end/static/js/2.03fc545c.chunk.js.LICENSE.txt"
+    "url": "/NLW-2-front-end/static/js/2.d2a9f9ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5eec451fc72993615e00",
-    "url": "/NLW-2-front-end/static/js/main.c743cc4a.chunk.js"
+    "revision": "3623af5ca19ae0078899",
+    "url": "/NLW-2-front-end/static/js/main.9eff8418.chunk.js"
   },
   {
     "revision": "efd9f5c6020456fbb41a",
     "url": "/NLW-2-front-end/static/js/runtime-main.013723fa.js"
-  },
-  {
-    "revision": "dc8c47fa945838a208074157d997436d",
-    "url": "/NLW-2-front-end/static/media/back.dc8c47fa.svg"
   },
   {
     "revision": "156102ee75a899123483211bbf4a8fbd",
@@ -46,9 +42,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e7a7e1b4e016245fa97e6f42aee4bcaa",
     "url": "/NLW-2-front-end/static/media/study.e7a7e1b4.svg"
-  },
-  {
-    "revision": "45c6e6ecebde5ee441644d41cc132ce4",
-    "url": "/NLW-2-front-end/static/media/whatsapp.45c6e6ec.svg"
   }
 ]);
