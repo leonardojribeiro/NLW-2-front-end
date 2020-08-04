@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NLW-2-front-end/static/css/main.670d5257.chunk.css",
-    "main.js": "/NLW-2-front-end/static/js/main.2c34b84b.chunk.js",
-    "main.js.map": "/NLW-2-front-end/static/js/main.2c34b84b.chunk.js.map",
+    "main.js": "/NLW-2-front-end/static/js/main.c743cc4a.chunk.js",
+    "main.js.map": "/NLW-2-front-end/static/js/main.c743cc4a.chunk.js.map",
     "runtime-main.js": "/NLW-2-front-end/static/js/runtime-main.013723fa.js",
     "runtime-main.js.map": "/NLW-2-front-end/static/js/runtime-main.013723fa.js.map",
     "static/js/2.03fc545c.chunk.js": "/NLW-2-front-end/static/js/2.03fc545c.chunk.js",
     "static/js/2.03fc545c.chunk.js.map": "/NLW-2-front-end/static/js/2.03fc545c.chunk.js.map",
     "index.html": "/NLW-2-front-end/index.html",
-    "precache-manifest.46ca47d7d2f4f40282f62b541863d537.js": "/NLW-2-front-end/precache-manifest.46ca47d7d2f4f40282f62b541863d537.js",
+    "precache-manifest.a1d740d615ea0c8dc11be87368918577.js": "/NLW-2-front-end/precache-manifest.a1d740d615ea0c8dc11be87368918577.js",
     "service-worker.js": "/NLW-2-front-end/service-worker.js",
     "static/css/main.670d5257.chunk.css.map": "/NLW-2-front-end/static/css/main.670d5257.chunk.css.map",
     "static/js/2.03fc545c.chunk.js.LICENSE.txt": "/NLW-2-front-end/static/js/2.03fc545c.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.013723fa.js",
     "static/js/2.03fc545c.chunk.js",
     "static/css/main.670d5257.chunk.css",
-    "static/js/main.2c34b84b.chunk.js"
+    "static/js/main.c743cc4a.chunk.js"
   ]
 }
