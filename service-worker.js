@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NLW-2-front-end/precache-manifest.0e665cb1f962ebaae1556715766793ac.js"
+  "/NLW-2-front-end/precache-manifest.52e127aaa51fad640751fb708d843cbd.js"
 );
 
 self.addEventListener('message', (event) => {
